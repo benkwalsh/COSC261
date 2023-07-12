@@ -1,2 +1,3 @@
-# COSC261
-Formal Languages and Compilers
+# Formal Languages and Compilers
+
+The compiler program takes an input, a high level language, and outputs the machine-language instructions.
