@@ -1,0 +1,9 @@
+read z;
+z := 2;
+if z < 3 then
+  z := 1 / 3
+else
+  z := 6;
+  write 66
+end;
+write z
